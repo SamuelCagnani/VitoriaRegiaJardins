@@ -203,3 +203,44 @@ nav.show div.icon-close {
   color: var(--base-color); 
   cursor: pointer; 
  }  
+
+ #about .textoo {
+   margin-left: 1.5rem;
+   margin-right: 1.5rem;
+   text-align: justify;
+ }
+
+ #about .imagem {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+#about .textoo h1 {
+
+margin-left: 1.5rem;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 45px;
+text-align: left;
+color: #000000;
+margin-bottom: 1rem;
+}
+
+#about .textoo p {
+
+margin-left: 1.5rem;
+margin-right: 1.5rem;
+text-align: justify;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+color: #767676;
+margin-bottom: 1.5rem;
+
+}
+
+
