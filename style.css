@@ -289,3 +289,100 @@ margin-bottom: 1.5rem;
   margin-bottom: 1.5rem;
   
   }
+
+  #contacts .text .title {
+
+    margin-left: 1.5rem;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 45px;
+    text-align: left;
+    color: #000000;
+    margin-bottom: 1rem;
+  
+    }
+
+
+  #contacts .text p {
+
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-size: 16px;
+  text-align: justify;
+  color: #767676;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+
+  }
+
+  #contacts .align_button {
+    text-align: center;
+    margin-top: 4rem;
+  }
+
+  #contacts .button {
+
+    background-color: var(--base-color);
+   color: var(--text-color-light);
+   display: inline-flex;
+   height: 3.5rem;
+  align-items: center;
+  padding: 0 2rem;
+  font: 500 1rem 'Dm Sans', sans-serif; 
+  transform: background 0.3s;
+
+  }
+
+  footer {
+    background: var(--base-color);
+  }
+  
+  footer .logo {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+  }
+  
+  footer .brand p {
+    color: var(--text-color-light);
+    margin-bottom: 0.75rem;
+  }
+  
+  footer i {
+    font-size: 1.5rem;
+    color: var(--text-color-light);
+  }
+  
+  footer .social a {
+    margin-right: 2rem;
+  }
+  
+  footer .container {
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  footer.section {
+    padding: 3.75rem 0;
+  }
+
+  footer .logo-alt span {
+    color: var(--text-color-light);
+  }
+  
+  
+  footer .logo-alt {
+    font: 700 1.5rem 'Poppins', 'sans-serif';
+  color: var(--title-color); 
+  }
+
+  footer {
+    padding: 1.5rem 0;
+  }
+
+  footer .brand p {
+    margin-top: 1rem;
+  }
+
+
