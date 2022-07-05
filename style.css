@@ -72,7 +72,7 @@ body {
 }
 
 .logo h1 {
-  font: 700 1.5rem 'Poppins', 'sans-serif';
+  font: 700 1.4rem 'Poppins', 'sans-serif';
   color: var(--title-color); 
 }
 
@@ -255,6 +255,7 @@ margin-bottom: 1.5rem;
   text-align: center;
 }
 
+
 .card i {
   display: block;
   margin-bottom: 1.5rem;
@@ -262,6 +263,7 @@ margin-bottom: 1.5rem;
   color: var(--base-color);
 
 }
+
 
  #services .texto h1 {
 
