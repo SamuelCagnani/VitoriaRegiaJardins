@@ -43,7 +43,7 @@ nav {
 nav.show .menu {
   opacity: 1;
   visibility: visible;
-  background: #008000;
+  background: #9cde9c;
   height: 100vh;
   width: 100vw;
   top:0;
@@ -186,14 +186,14 @@ nav.show .menu {
   --body-color: hsl(0 0% 98%);
 }
 
-nav .icon-close {
+nav .icon-cross {
   visibility: hidden;
   opacity: 0;
   position: absolute;
   right: 1.5rem;
 }
 
-nav.show div.icon-close {
+nav.show div.icon-cross {
   visibility: visible;
   opacity: 1;
 }
